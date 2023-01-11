@@ -1,9 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:newbie/pages/favorite.dart';
-import 'package:newbie/pages/light_dark_page.dart';
 import 'package:newbie/pages/login_page_with_provder.dart';
-import 'package:newbie/pages/slider_page.dart';
-import 'package:newbie/pages/text_form_toggle.dart';
 import 'package:newbie/provider/auth_provider.dart';
 import 'package:newbie/provider/counter_pvider.dart';
 import 'package:newbie/provider/favourite_pvider.dart';
